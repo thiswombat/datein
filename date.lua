@@ -20,5 +20,4 @@ print("Year: ")
 year = io.read()
 --prompt the user to enter a year
 
---insert variables into table as numbers then displaying them, broken up by slashes
 io.write("Date: ", day, "-", monthTab[tonumber(monthin)], "-", year, "\n")
